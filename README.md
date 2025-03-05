@@ -7,6 +7,9 @@
 🛠️ Technologies Used:
 
 Python 🐍 – Core programming language
+
 OpenCV 👀 – For image processing and object detection
+
 EasyOCR 📝 – For Optical Character Recognition (OCR)
+
 NumPy 🔢 – For handling image arrays
